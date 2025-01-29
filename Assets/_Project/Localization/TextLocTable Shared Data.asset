@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TextLocTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TextLocTable
+  m_TableCollectionNameGuidString: 5f8ba2bee2b5c744886198cf897f1fb0
+  m_Entries:
+  - m_Id: 640156184576
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/VolumeSliders/VolumeSliderHolder/Text
+      (TMP) (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715578159104
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/VolumeSliders/VolumeSliderHolder
+      (2)/Text (TMP) (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776060022784
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/Toggle/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 849766526976
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 908881047552
+    m_Key: MainMenu/Canvas/Content/Tittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007988256768
+    m_Key: MainMenu/Canvas/Content/Buttons/StartButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1034647252992
+    m_Key: MainMenu/Canvas/Content/Buttons/SettingsButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054410813440
+    m_Key: MainMenu/Canvas/Content/Buttons/QuitButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849810235392
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/LangDropDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1865756979200
+    m_Key: MainMenu/Canvas/Content/SettingsPanel/LangDropDown 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2485217931264
+    m_Key: Reactor/Canvas/Content/TopBar/TextItem/TimeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2591757447168
+    m_Key: Reactor/Canvas/Content/TopBar/TextItem (1)/TimeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654055444480
+    m_Key: Reactor/Canvas/Content/TopBar/TextItem (2)/TimeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2725920649216
+    m_Key: Reactor/Canvas/Content/TopBar/TextItem (2)/TimeText (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763547750400
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/GraphPanel/BackGround/Tittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2845139546112
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/GraphPanel/BackGround/SideDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2919030599680
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/Image/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2937498120192
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/Image (1)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972478615552
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/Image (1)/Tabs/Image (1)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2995379515392
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/Image (1)/Tabs/Image/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3045094600704
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/Image (2)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3057182584832
+    m_Key: Reactor/Canvas/Content/RightPanel/Top/GameObject/Image (4)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129098121216
+    m_Key: Reactor/Canvas/Content/RightPanel/Bottom/Buttons/Button (4)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3180667088896
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/GraphPanel/BackGround/Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3477988716544
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3512457506816
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3614874021888
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3859792015360
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (4)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883921846272
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (5)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3901776998400
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (8)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3917086208000
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (9)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945808801792
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (7)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3964402151424
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (6)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3996245307392
+    m_Key: Reactor/Canvas/Content/CenterPanel/Image/Panels/DiagramPanel/BackGround/DisplayContent/Texts/Description
+      (2)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359240946954240
+    m_Key: Tutorial/Canvas/Content/Tittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359281614925824
+    m_Key: Tutorial/Canvas/Content/WrittenTutButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359340754612224
+    m_Key: Tutorial/Canvas/Content/SkipButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359822139076608
+    m_Key: Tutorial/Canvas/Content/SkipButton/Text (TMP) 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362173444927488
+    m_Key: Tutorial/Canvas/Content/WrittenTutPanel/WrittenTutButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5827291013440864535
+  references:
+    version: 2
+    RefIds:
+    - rid: 5827291013440864535
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736875908191

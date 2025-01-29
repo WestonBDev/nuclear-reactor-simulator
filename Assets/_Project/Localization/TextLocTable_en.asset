@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextLocTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5f8ba2bee2b5c744886198cf897f1fb0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 640156184576
+    m_Localized: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715578159104
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776060022784
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 849766526976
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 908881047552
+    m_Localized: Nuclear Reactor Simulator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007988256768
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1034647252992
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054410813440
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849810235392
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1865756979200
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2485217931264
+    m_Localized: 'Time:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2591757447168
+    m_Localized: 'Power Output:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654055444480
+    m_Localized: 'Status:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2725920649216
+    m_Localized: OPERATIONAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763547750400
+    m_Localized: Reactivity Factors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2845139546112
+    m_Localized: Ammount in reactor (%)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2919030599680
+    m_Localized: REACTIVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2937498120192
+    m_Localized: TEMPERATURE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2972478615552
+    m_Localized: COOLANT TEMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2995379515392
+    m_Localized: CORE TEMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3045094600704
+    m_Localized: PRESSURE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3057182584832
+    m_Localized: VOID FRACTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129098121216
+    m_Localized: AUTO ROD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3180667088896
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3477988716544
+    m_Localized: (Diagrammatic)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3512457506816
+    m_Localized: '* PRESSURE TUBES'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3614874021888
+    m_Localized: BIOLOGICAL SHIELD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3859792015360
+    m_Localized: PUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883921846272
+    m_Localized: WATER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3901776998400
+    m_Localized: PUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3917086208000
+    m_Localized: CONDENSER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945808801792
+    m_Localized: TURBINE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3964402151424
+    m_Localized: STEAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3996245307392
+    m_Localized: 'STEAM
+
+      SEPARATOR'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359240946954240
+    m_Localized: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359281614925824
+    m_Localized: Written Version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359340754612224
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359822139076608
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362173444927488
+    m_Localized: Video Version
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
