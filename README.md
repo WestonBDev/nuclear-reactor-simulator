@@ -4,7 +4,7 @@
 [![DOTS](https://img.shields.io/badge/DOTS-ECS%20Architecture-orange?style=flat-square)](https://unity.com/dots)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-Oriented Technology Stack) and Entity Component System (ECS) architecture with Burst-compiled systems. Inspired by nuclear reactor dynamics with simplified physics modeling for educational and simulation purposes.
+A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-Oriented Technology Stack) and Entity Component System (ECS) architecture with Burst-compiled systems. Reproduces the 01:23:40 power excursion from April 26, 1986.
 
 ## Technical Implementation
 
@@ -22,7 +22,7 @@ A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-
 ### Core Physics Systems
 
 **Neutron Dynamics**
-- Fast and thermal neutron states with collision detection
+- Fast and thermal neutron states with real-time collision detection
 - Neutron multiplication through fission events
 - Neutron absorption by control rods and xenon
 
@@ -41,7 +41,6 @@ A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-
 - Void fraction calculations based on core temperature and pressure
 
 **Control Rod Mechanics**
-- 5-group rod bank system (10 total rods, 2 per group)
 - Manual slider control for each group
 - Automatic rod movement based on neutron levels (>40 neutrons triggers insertion)
 - Emergency SCRAM function (immediate full insertion)
@@ -62,31 +61,15 @@ A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-
 - Reactivity meter
 - Reactor period calculation
 - Void fraction tracking
-
-**Safety Systems**
 - Manual SCRAM button
 - Automatic reactor shutdown conditions
-- Loss conditions monitoring (temp >900°C, pressure >17 MPa, void >50%, neutrons >100)
 
 ### Control Systems
 
-- **Manual Control**: Individual control rod group sliders (5 groups)
+- **Manual Control**: Individual control rod group sliders
 - **Automatic Control**: System-managed rod positioning based on neutron levels
 - **Emergency SCRAM**: Immediate full rod insertion
 - **Coolant System**: Water cooling with adjustable flow rates
-
-### Game Mechanics
-
-**Loss Conditions**
-- Core temperature exceeding 900°C
-- Pressure exceeding 17 MPa  
-- Void fraction exceeding 50%
-- Neutron count exceeding 100
-
-**Loss Sequence**
-- Uranium activation batch increased to 400 units
-- 10-second dramatic escalation period
-- Simulation pause with loss UI display
 
 ## Technical Details
 
