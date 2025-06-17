@@ -71,7 +71,3 @@ A real-time nuclear reactor physics simulator recreating the Chernobyl Unit 4 ac
 ## Inspiration
 
 This project was inspired by the Higgsino Physics video: [Chernobyl Visually Explained](https://youtu.be/P3oKNE72EzU?si=kIGXqNy9mmr4gZ)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
