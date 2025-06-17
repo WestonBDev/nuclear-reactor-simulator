@@ -29,7 +29,7 @@ A real-time nuclear reactor physics simulator built in Unity 6 using DOTS (Data-
 **Uranium Fuel Dynamics**
 - Three uranium states: inactive (0), reactive (1), and xenon-poisoned (2)
 - Fission chain reactions spawning 3 neutrons per collision
-- 50% probability of continued reactivity vs. xenon production
+- Random probability of continued reactivity vs. xenon production
 
 **Xenon-135 Poisoning**
 - Neutron-absorbing fission product accumulation
